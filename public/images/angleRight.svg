@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Right_arrow" data-name="Right arrow" transform="translate(56)" opacity="0.699">
+    <rect id="Rectangle" width="56" height="56" rx="5" transform="translate(-56)" fill="#fff"/>
+    <g id="Icon_Arrow_iOS_Backward" data-name="Icon / Arrow iOS Backward" transform="translate(-47.765 8.235)">
+      <path id="_24pt_Bounding_Box" data-name="24pt Bounding Box" d="M0,0H-39.529V39.529H0Z" transform="rotate(-90)" fill="none" opacity="0"/>
+      <path id="Fill" d="M-9.615,23.061h0a1.647,1.647,0,0,0,1.285-.609l7.955-9.882h0a1.647,1.647,0,0,0,0-2.092L-8.61.6h0A1.649,1.649,0,0,0-10.932.381,1.649,1.649,0,0,0-11.146,2.7l7.362,8.828L-10.9,20.36h0a1.647,1.647,0,0,0,.211,2.32,1.647,1.647,0,0,0,1.073.381Z" transform="translate(26.365 8.233)" fill="#568089"/>
+    </g>
+  </g>
+</svg>

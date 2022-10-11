@@ -1,0 +1,1158 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "name": "Aloevera Food Supliment",
+      "available": 15,
+      "quantity": 5,
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/thermometer.jpg",
+      "name": "Digital Infrared Thermometer",
+      "available": 25,
+      "quantity": 1,
+      "price": 6500
+    }
+  ],
+  "conditions": [
+    {
+      "id": 1,
+      "name": "Eczema",
+      "icon": "/images/svgs/eczema.svg"
+    },
+    {
+      "id": 2,
+      "name": "Diarrhea",
+      "icon": "/images/svgs/diarrhea.svg"
+    },
+    {
+      "id": 3,
+      "name": "Covid-19",
+      "icon": "/images/svgs/covid.svg"
+    },
+    {
+      "id": 4,
+      "name": "Pregnancy",
+      "icon": "/images/svgs/pregnancy.svg"
+    },
+    {
+      "id": 5,
+      "name": "Headache",
+      "icon": "/images/svgs/headache.svg"
+    },
+    {
+      "id": 6,
+      "name": "Nasal",
+      "icon": "/images/svgs/nasal.svg"
+    },
+    {
+      "id": 7,
+      "name": "Fever",
+      "icon": "/images/svgs/fever.svg"
+    },
+    {
+      "id": 8,
+      "name": "Cough and Flu",
+      "icon": "/images/svgs/coughandflu.svg"
+    },
+    {
+      "id": 9,
+      "name": "Body pain",
+      "icon": "/images/svgs/bodypain.svg"
+    },
+    {
+      "id": 10,
+      "name": "Skin",
+      "icon": "/images/svgs/skin.svg"
+    },
+    {
+      "id": 11,
+      "name": "Vitamins",
+      "icon": "/images/svgs/vitamins.svg"
+    }
+  ],
+  "eczema": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "name": "Aloevera Food Supliment",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "available": 5,
+      "rating": 4.5,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/thermometer.jpg",
+      "name": "Digital Infrared Thermometer",
+      "code": "H0558",
+      "type": "Medications",
+      "available": 15,
+      "rating": 2,
+      "package": "Paper Box",
+      "expiration": "21 September 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/sundown.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 51,
+      "rating": 5,
+      "package": "Paper Box",
+      "expiration": "27 Jauary 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "src": "/images/mask.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "First Aid Kit",
+      "available": 105,
+      "rating": 4,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L-Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    },
+    {
+      "id": 6,
+      "src": "/images/firstaid.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 7,
+      "src": "/images/firstaid.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 8,
+      "src": "/images/sundown.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    },
+    {
+      "id": 9,
+      "src": "/images/thermometer.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 10,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 12,
+      "src": "/images/mask.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "First Aid Kit",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1000
+    },
+    {
+      "id": 13,
+      "src": "/images/firstaid.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    }
+  ],
+  "diarrhea": [
+    {
+      "id": 1,
+      "src": "/images/drug1.png",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Diarrhea Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/drug2.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "ABc diarrhea drug",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "P- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "covid-19": [
+    {
+      "id": 1,
+      "src": "/images/drug1.png",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Diarrhea Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/drug2.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "ABc diarrhea drug",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "pregnancy": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    }
+  ],
+  "skin": [
+    {
+      "id": 1,
+      "src": "/images/drug1.png",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Diarrhea Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/drug2.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "ABc diarrhea drug",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "vitamins": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/drug2.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "ABc diarrhea drug",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "cough-and-flu": [
+    {
+      "id": 1,
+      "src": "/images/drug1.png",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Diarrhea Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/drug2.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "ABc diarrhea drug",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "headache": [
+    {
+      "id": 1,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 2,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "nasal": [
+    {
+      "id": 1,
+      "src": "/images/drug1.png",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Diarrhea Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    },
+    {
+      "id": 3,
+      "src": "/images/pot.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "L- Carnitine",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 1200
+    }
+  ],
+  "body-pain": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    }
+  ],
+  "fever": [
+    {
+      "id": 1,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "src": "/images/aloevera.jpg",
+      "code": "H0558",
+      "type": "Vitamins & Supplements",
+      "name": "Aloevera Food Supliment",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "src": "/images/bottle.jpg",
+      "code": "H0558",
+      "type": "Medications",
+      "name": "Digital Infrared Thermometer",
+      "available": 5,
+      "rating": 3,
+      "package": "Paper Box",
+      "expiration": "27 August 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 6500
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Medications",
+      "description": "Lorem ipsum dolor sit amet",
+      "subCategory": [
+        { "name": "Paracetal" },
+        { "name": "Panadol" },
+        { "name": "Flagyl" },
+        { "name": "Boska" },
+        { "name": "Septrin" },
+        { "name": "Gari" },
+        { "name": "Ewa" },
+        { "name": "Pink" },
+        { "name": "Yello" },
+        { "name": "Ciproflaxacin" },
+        { "name": "Something" },
+        { "name": "Dont worry" },
+        { "name": "Youre fine" },
+        { "name": "Okay" },
+        { "name": "Bye" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vitamins & Supplements",
+      "description": "Lorem ipsum dolor sit amet",
+      "subCategory": [
+        { "name": "Yello" },
+        { "name": "Panadol" },
+        { "name": "Flagyl" },
+        { "name": "Boska" },
+        { "name": "Septrin" },
+        { "name": "Gari" },
+        { "name": "Ewa" },
+        { "name": "Pink" },
+        { "name": "Paracetamol" },
+        { "name": "Ciproflaxacin" },
+        { "name": "Something" },
+        { "name": "Dont worry" },
+        { "name": "Youre fine" },
+        { "name": "Okay" },
+        { "name": "Bye" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Head Food",
+      "description": "Lorem ipsum dolor sit amet",
+      "subCategory": []
+    },
+    {
+      "id": 4,
+      "name": "Home Health Cares",
+      "description": "Lorem ipsum dolor sit amet",
+      "subCategory": [
+        { "name": "Ciproflaxacin" },
+        { "name": "Something" },
+        { "name": "Dont worry" },
+        { "name": "Youre fine" },
+        { "name": "Okay" },
+        { "name": "Bye" },
+        { "name": "Paracetal" },
+        { "name": "Panadol" },
+        { "name": "Flagyl" },
+        { "name": "Boska" },
+        { "name": "Septrin" },
+        { "name": "Gari" },
+        { "name": "Ewa" },
+        { "name": "Pink" },
+        { "name": "Yello" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mom & Baby",
+      "description": "Lorem ipsum dolor sit amet",
+      "subCategory": [
+        { "name": "Paracetal" },
+        { "name": "Panadol" },
+        { "name": "Flagyl" },
+        { "name": "Boska" },
+        { "name": "Septrin" },
+        { "name": "Gari" },
+        { "name": "Ewa" },
+        { "name": "Pink" },
+        { "name": "Yello" },
+        { "name": "Ciproflaxacin" },
+        { "name": "Something" },
+        { "name": "Dont worry" },
+        { "name": "Youre fine" },
+        { "name": "Okay" },
+        { "name": "Bye" }
+      ]
+    }
+  ],
+  "brands": [
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" },
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" },
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" },
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" },
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" },
+    { "name": "Arla", "logo": "/images/Arla.png" },
+    { "name": "Wilson’s", "logo": "/images/wilsons.png" },
+    { "name": "Seller", "logo": "/images/seller.png" },
+    { "name": "Peak Milk", "logo": "/images/peak.png" },
+    { "name": "Okra", "logo": "/images/okra.png" },
+    { "name": "Nestle", "logo": "/images/nestle.png" }
+  ],
+  "inventory-conditions": [
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" },
+    { "name": "Maleria" },
+    { "name": "Thyphoid" },
+    { "name": "HIV/AIDS" },
+    { "name": "Cattarh" },
+    { "name": "Pains" },
+    { "name": "Fever" },
+    { "name": "Cold" },
+    { "name": "Heat" },
+    { "name": "Corona" },
+    { "name": "Diabetes" },
+    { "name": "Cancer" },
+    { "name": "Ebola" }
+  ],
+  "products": [
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 3
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": false,
+      "availability": 7
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 8
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 9
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": false,
+      "availability": 0
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 2
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": false,
+      "availability": 3
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 0
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Panadol extra",
+      "price": 5500,
+      "purchased": false,
+      "availability": 3
+    },
+    {
+      "image": "/images/aloevera.jpg",
+      "name": "Aloevera bottle",
+      "price": 5200,
+      "purchase": true,
+      "availability": 0
+    },
+    {
+      "image": "/images/aloevera.jpg",
+      "name": "Aloevera bottle",
+      "price": 5200,
+      "purchase": true,
+      "availability": 3
+    },
+    {
+      "image": "/images/aloevera.jpg",
+      "name": "Aloevera bottle",
+      "price": 5200,
+      "purchase": true,
+      "availability": 7
+    },
+    {
+      "image": "/images/aloevera.jpg",
+      "name": "Aloevera bottle",
+      "price": 5200,
+      "purchase": true,
+      "availability": 8
+    },
+    {
+      "image": "/images/aloevera.jpg",
+      "name": "Aloevera bottle",
+      "price": 5200,
+      "purchase": false,
+      "availability": 9
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 0
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 2
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 3
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 0
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Panadol extra",
+      "price": 5500,
+      "purchased": true,
+      "availability": 3
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Towels",
+      "price": 5500,
+      "purchased": true,
+      "availability": 0
+    },
+    {
+      "image": "/images/product.jpg",
+      "name": "Papmpers",
+      "price": 5500,
+      "purchased": false,
+      "availability": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user": "Abdulkadir Aisha",
+      "items": 7,
+      "status": "pending",
+      "amount": 10000
+    },
+    {
+      "id": 2,
+      "user": "AbdulMalik Gwadu",
+      "items": 2,
+      "status": "delivered",
+      "amount": 2000
+    },
+    {
+      "id": 3,
+      "user": "Sams James",
+      "items": 1,
+      "status": "failed",
+      "amount": 12000
+    },
+    {
+      "id": 4,
+      "user": "Abdulkadir Aisha",
+      "items": 1,
+      "status": "pending",
+      "amount": 14000
+    },
+    {
+      "id": 5,
+      "user": "Aliyu Garba",
+      "items": 10,
+      "status": "delivered",
+      "amount": 34000
+    },
+    {
+      "id": 6,
+      "user": "George Akande",
+      "items": 1,
+      "status": "pending",
+      "amount": 14000
+    },
+    {
+      "id": 7,
+      "user": "Halima Sani",
+      "items": 1,
+      "status": "failed",
+      "amount": 10000
+    },
+    {
+      "id": 8,
+      "user": "Garba Musa",
+      "items": 10,
+      "status": "delivered",
+      "amount": 944000
+    },
+    {
+      "id": 9,
+      "user": "Abdulkadir Aisha",
+      "items": 1,
+      "status": "Pending",
+      "amount": 10000
+    },
+    {
+      "id": 10,
+      "user": "Abdulkadir Aisha",
+      "items": 1,
+      "status": "delivered",
+      "amount": 1000
+    }
+  ],
+  "customer-orders": [
+    {
+      "id": 1,
+      "drug": "Panadol Plus",
+      "quantity": 7,
+      "amount": 10000
+    },
+    {
+      "id": 2,
+      "drug": "Priton Plus",
+      "quantity": 7,
+      "amount": 10000
+    },
+    {
+      "id": 3,
+      "drug": "Panadol Etral Vitamin Plus",
+      "quantity": 7,
+      "amount": 10000
+    },
+    {
+      "id": 4,
+      "drug": "Panadolle",
+      "quantity": 7,
+      "amount": 10000
+    },
+    {
+      "id": 5,
+      "drug": "Etral Vitamin Plus",
+      "quantity": 6,
+      "amount": 1000
+    },
+    {
+      "id": 6,
+      "drug": "Panadol",
+      "quantity": 3,
+      "amount": 1000
+    },
+    {
+      "id": 7,
+      "drug": "Septrim Etral Vitamin Plus",
+      "quantity": 2,
+      "amount": 1200
+    },
+    {
+      "id": 8,
+      "drug": "Emzo Paracetamol",
+      "quantity": 1,
+      "amount": 500
+    },
+    {
+      "id": 9,
+      "drug": "Panadol Etral Vitamin Plus",
+      "quantity": 2,
+      "amount": 9000
+    },
+    {
+      "id": 10,
+      "drug": "Panadol Etral Vitamin Plus",
+      "quantity": 8,
+      "amount": 20000
+    }
+  ]
+}

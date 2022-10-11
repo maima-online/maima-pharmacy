@@ -1,0 +1,198 @@
+.card {
+  box-sizing: border-box;
+  width: 632px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px 20px;
+  cursor: pointer;
+}
+
+.cardContent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.description {
+  width: 97%;
+  display: flex;
+}
+.arrowIcon {
+  width: 3%;
+}
+.circle {
+  background: #dde6e7 0% 0% no-repeat padding-box;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  min-width: 20px;
+  min-height: 20px;
+  width: 40px;
+  height: 40px;
+  margin: 16px 20px 0 0;
+}
+.heading {
+  width: 100%;
+  font: normal normal normal 600 16px/24px "Inter", sans-serif;
+  color: #111827;
+}
+.subheading {
+  font: normal normal normal 400 14px/24px "Inter", sans-serif;
+  color: #111827;
+  display: flex;
+  justify-content: space-between;
+}
+.detailCard {
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  width: 430px;
+  padding: 10px 20px;
+  height: 85vh;
+}
+.subCatCard {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  width: 100%;
+  padding: 8px 0;
+}
+.titleHolder {
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.catCard {
+  box-sizing: border-box;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px 10px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.catCardSelected {
+  box-sizing: border-box;
+  width: 100%;
+  background: #ffffff;
+  border: 2px solid #568089;
+  border-radius: 8px;
+  padding: 8px 24px 12px 10px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.cardTitle {
+  display: flex;
+}
+.radioDescription {
+  width: 92%;
+  display: flex;
+}
+.calloutIcon {
+  width: 8%;
+}
+.descriptionArrowIcon {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+/* BRAND CSS */
+
+.pageTitleCard {
+  box-sizing: border-box;
+  width: 420px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 8px 20px;
+}
+.brandcard {
+  box-sizing: border-box;
+  width: 200px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 8px;
+}
+.brandLogoPreview {
+  box-sizing: border-box;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 14px 0;
+}
+.browsebutton {
+  font: normal normal normal 600 12px/20px "Inter", sans-serif;
+  color: #568089;
+  cursor: pointer;
+}
+.conditioncard {
+  box-sizing: border-box;
+  width: 110px;
+  background: transparent;
+}
+.tableCard {
+  box-sizing: border-box;
+  width: 70%;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px 20px;
+}
+
+.imgPreview {
+  box-sizing: border-box;
+  width: 100%;
+  background: #fff;
+  border: 1px dashed #e5e7eb;
+  border-radius: 8px;
+  padding: 25px 20px;
+  margin: 10px 0;
+}
+.browseImg {
+  text-align: center;
+  font: normal normal normal 400 12px/20px "Inter", sans-serif;
+  color: #9ca3af;
+  cursor: pointer;
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+
+  .detailCard {
+    width: 100%;
+    height: 100%;
+  }
+  .pageTitleCard {
+    width: 100%;
+  }
+  .brandcard {
+    width: 100%;
+    padding: 8px 2px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .detailCard {
+    width: 430px;
+  }
+  /* .pageTitleCard {
+    width: 100%;
+  } */
+  .brandcard {
+    width: 100%;
+    padding: 8px 2px;
+  }
+}
